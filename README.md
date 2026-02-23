@@ -1,13 +1,20 @@
 **Laravel Todo List**
 
-- Framework: Laravel (MVC Architecture)
-- Development Environment: Laragon (Apache/Nginx, PHP 8.5, MySQL local stack)
-- Frontend: Blade, Bootstrap, responsive UI
-- Authentication: Built-in Laravel auth (login, register, middleware protection)
-- Features: Full CRUD task management, status tracking (done/processing/not started), form validation, CSRF protection
-- Database: MySQL with Eloquent ORM, migrations
-- Architecture: Clean MVC structure, RESTful routing
-- Version Control: Git
+- Framework: Laravel (MVC Architecture).
+  
+- Development Environment: Laragon (Apache/Nginx, PHP 8.5, MySQL local stack).
+  
+- Frontend: Blade, Bootstrap, responsive UI.
+  
+- Authentication: Built-in Laravel auth (login, register, middleware protection).
+  
+- Features: Full CRUD task management, status tracking (done/processing/not started), form validation, CSRF protection.
+  
+- Database: MySQL with Eloquent ORM, migrations.
+  
+- Architecture: Clean MVC structure, RESTful routing.
+  
+- Version Control: Git.
 
 ---
 
